@@ -1,0 +1,17 @@
+{
+  "model": "Multilayer Perceptron",
+  "top_k_genes": 2000,
+  "hidden1": 64,
+  "hidden2": 32,
+  "dropout1": 0.4,
+  "dropout2": 0.3,
+  "learning_rate": 0.001,
+  "l2_value": 0.0001,
+  "batch_size": 32,
+  "epochs": 26,
+  "class_weight_mode": "balanced",
+  "random_state": 42,
+  "training_samples": 675,
+  "test_samples": 169,
+  "batch_normalization": false
+}
